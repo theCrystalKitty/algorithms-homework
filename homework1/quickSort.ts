@@ -1,3 +1,6 @@
+
+//Difficulty: O(n log(n))
+
 var arr: Array<number> = [45, 22, 7, 11, 92, 1, 6, 88];
 console.log(arr.join(", "));
 

@@ -1,3 +1,6 @@
+
+//Difficulty: O(n^2)
+
 var arr: Array<number> = [45, 22, 7, 11, 92, 1, 6, 88];
 console.log(arr.join(", "));
 
